@@ -1,2 +1,3 @@
 # dependencyhell
-Dependency Hell related activity.
+
+Clean Architecture and DDD cases for https://t.me/dependencyhell
